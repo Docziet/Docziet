@@ -1,4 +1,4 @@
-<!-- Banner (Optional: Add your own banner image here) -->
+![Banner] (https://github.com/Docziet/Docziet/blob/main/Black%20Green%20Blue%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi there 👋, I'm <span style="color:#38B2AC;">David Okereke</span></h1>
 <h3 align="center">Product Designer | Frontend Developer | Web3 Explorer</h3>
 
