@@ -1,22 +1,23 @@
-![Banner] (https://github.com/Docziet/Docziet/blob/main/Black%20Green%20Blue%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.png)
+![Banner](https://github.com/Docziet/Docziet/raw/main/Black%20Green%20Blue%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi there 👋, I'm <span style="color:#38B2AC;">David Okereke</span></h1>
-<h3 align="center">Product Designer | Frontend Developer | Web3 Explorer</h3>
+<h3 align="center">Product Designer | Frontend Engineer in progress | Web3 Enthusiast</h3>
 
 ---
 
 ## 💡 About Me
-🚀 Passionate about **building impactful solutions** where **design + development + blockchain** intersect.  
-🎯 My mission is to create products that improve **access, transparency, and user experience** in Africa’s digital economy.  
+🚀 Passionate about building impactful solutions at the intersection of **design, development, and emerging tech**.  
+🎯 My mission is to improve **access, transparency, and user experience** in Africa’s digital landscape.
 
-- 🌱 Currently growing in: **Frontend Development (React, JS, Tailwind)**  
-- 🎨 Designing with: **Figma & Design Systems**  
+- 🌱 Currently growing in: **Frontend (React, JavaScript, Tailwind)**  
+- 🎨 Designing using: **Figma & Design Systems**  
 - 🔗 Exploring: **Web3 & Blockchain applications**  
-- 🛠️ Entrepreneur at **Datamesolution Technologies** & Community Builder with **Brainbench**  
-- ✨ Vision: Become a **Proficient Product Designer with strong Frontend skills** to solve real-world problems.  
+- 🛠️ Entrepreneur at **Datamesolution Technologies**, and **Community Builder at Brainbench**  
+- ✨ Vision: Become a **Proficient Product Designer with strong Frontend skills** that drive meaningful change.  
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -31,10 +32,10 @@
 ---
 
 ## 📌 Current Focus
-✅ Building projects in **Frontend (React + Tailwind)**  
-✅ Improving **UI/UX design workflow & prototyping**  
-✅ Learning how **Web3 can solve local African challenges**  
-✅ Growing through **ALX Software Engineering Program**  
+- Building **Frontend projects** (React + Tailwind)  
+- Improving **UI/UX design process and outputs**  
+- Applying **Web3 to real-world challenges**  
+- Advancing through the **ALX Software Engineering Program**
 
 ---
 
@@ -56,4 +57,4 @@
 
 ---
 
-⭐️ From [docziet](https://github.com/docziet)  
+⭐ From [docziet](https://github.com/docziet)
